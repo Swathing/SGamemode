@@ -1,0 +1,10 @@
+name: SGamemode
+version: '${project.version}'
+main: net.swathingbr.gamemode.Master
+authors: [ SwathingBR ]
+
+commands:
+  gamemode:
+    description:
+    aliases:
+      - gm
